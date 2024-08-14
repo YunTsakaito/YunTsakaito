@@ -9,33 +9,33 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=pyromagne&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
+      <a href="https://github.com/YunTsakaito">
+        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
       </a>
     </td>
     <td>
-      <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pyromagne&theme=transparent&hide_border=true&card_width=500" alt="github streak">
+      <a href="https://github.com/yuntsakaito">
+        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=yuntsakaito&theme=transparent&hide_border=true&card_width=500" alt="github streak">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6">
-        <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=pyromagne\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
+      <a href="https://wakatime.com/@e05cffa5-edb0-4abe-847a-c56bbfa5ac46">
+        <img align="right" style="width: 100%;" src="https://github-readme-stats-yuntsakaitos-projects.vercel.app/api/wakatime?username=yuntsakaito\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
       </a>
     </td>
     <td>
-      <a href="https://github.com/Pyromagne">
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromagne&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
+      <a href="https://github.com/yuntsakaito">
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
       </a>
     </td>
   </tr>
 </table>
 
 <center>
-  <a href="https://github.com/Pyromagne">
-    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyromagne&theme=tokyonight" alt="github stats">
+  <a href="https://github.com/yuntsakaito">
+    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuntsakaito&theme=tokyonight" alt="github stats">
   </a>
 </center>
 
@@ -107,15 +107,15 @@
 
 ### Accounts
 
-<a href="https://www.instagram.com/pyromagne/">
+<a href="https://www.instagram.com/yuntsakaito/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="125">
 </a><br>
 
-<a href="https://twitter.com/Pyromagne314">
+<a href="https://twitter.com/yuntsakaito314">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" width="125">
 </a><br>
 
-<a href="https://www.youtube.com/@pyromagne2280">
+<a href="https://www.youtube.com/@yuntsakaito2280">
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" width="125">
 </a><br>
 
@@ -123,15 +123,15 @@
   <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" width="125">
 </a><br>
 
-<a href="https://www.last.fm/user/Pyromagne">
+<a href="https://www.last.fm/user/yuntsakaito">
   <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm Badge" width="125">
 </a><br>
 
-<a href="https://pyromagne.itch.io/">
+<a href="https://yuntsakaito.itch.io/">
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge" width="125">
 </a><br> -->
 
 <!-- <div align="center" style="background-color: white; border-radius:50px">
-  <img src="https://wakatime.com/share/@Pyromagne/2f36743f-8971-45c1-afa8-fb31237baa31.svg" width="45%" alt="Wakatime Activity">
-  <img src="https://wakatime.com/share/@Pyromagne/b57832af-67b4-434b-86bf-890046385339.svg" width="45%" alt="Wakatime Activity">
+  <img src="https://wakatime.com/share/@yuntsakaito/2f36743f-8971-45c1-afa8-fb31237baa31.svg" width="45%" alt="Wakatime Activity">
+  <img src="https://wakatime.com/share/@yuntsakaito/b57832af-67b4-434b-86bf-890046385339.svg" width="45%" alt="Wakatime Activity">
 </div> -->
