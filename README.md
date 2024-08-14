@@ -1,8 +1,8 @@
 <div align="center">
 
-  [![Wakatime](https://wakatime.com/badge/user/018c478b-7bf8-48c4-a893-0055b2f83fc6.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@Pyromagne)
-  [![GitHub Followers](https://img.shields.io/github/followers/pyromagne?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/Pyromagne)
-  [![GitHub Stars](https://img.shields.io/github/stars/pyromagne?logo=coveralls&style=for-the-badge&color=%23FFD500)](https://github.com/Pyromagne)
+  [![Wakatime](https://wakatime.com/badge/user/a6e457ea-b213-46e8-a743-0e204e46e808.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@YunTsakaito)
+  [![GitHub Followers](https://img.shields.io/github/followers/yuntsakaito?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/YunTsakaito)
+  [![GitHub Stars](https://img.shields.io/github/stars/yuntsakaito?logo=coveralls&style=for-the-badge&color=%23FFD500)](https://github.com/YunTsakaito)
   
 </div>
 
