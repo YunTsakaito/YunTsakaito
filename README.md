@@ -21,8 +21,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://wakatime.com/@e05cffa5-edb0-4abe-847a-c56bbfa5ac46">
-        <img align="right" style="width: 100%;" src="https://github-readme-stats-yuntsakaitos-projects.vercel.app/api/wakatime?username=yuntsakaito\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
+      <a href="https://wakatime.com/@yuntsakaito">
+        <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=yuntsakaito\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
       </a>
     </td>
     <td>
