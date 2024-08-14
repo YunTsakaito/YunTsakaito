@@ -35,7 +35,7 @@
 
 <center>
   <a href="https://github.com/yuntsakaito">
-    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuntsakaito&theme=tokyonight" alt="github stats">
+    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunTsakaito&theme=tokyonight" alt="github stats">
   </a>
 </center>
 
