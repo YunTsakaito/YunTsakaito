@@ -83,6 +83,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)
+![UML](https://img.shields.io/badge/UML-%23FABD14?style=for-the-badge&logo=uml&logoColor=black)
 
 </div>
 <!-- <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=5&width=500">
